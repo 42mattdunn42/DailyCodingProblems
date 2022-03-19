@@ -17,4 +17,4 @@ Problem 8: Given the root to a binary tree, count the number of unival subtrees
 Problem 9: Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative.
     Completed 3-18-22
 Problem 10: Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds.
-    Incomplete
+    Looked Up Solution on 3-19-22
