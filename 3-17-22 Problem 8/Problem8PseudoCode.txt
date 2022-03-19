@@ -1,0 +1,14 @@
+numUnivalSubtrees(binaryTreeRoot):
+    int out = 0
+    _numUnivalHelper(binaryTreeRoot, out)
+    return out
+
+_numUnivalHelper(curr, total):
+    if(curr.left.getData == curr.right.getData)
+        if(curr.left.getData == null)
+            out++
+        else
+            _numUnivalHelper(curr.left, out)
+            _numUnivalHelper(curr.right, out)
+
+This is not right but the general idea. What is wrong is how to get the recursive method to kick back correctly
