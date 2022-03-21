@@ -18,3 +18,5 @@ Problem 9: Given a list of integers, write a function that returns the largest s
     Completed 3-18-22
 Problem 10: Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds.
     Looked Up Solution on 3-19-22
+Problem 11: Implement an autocomplete system. That is, given a query string s and a set of all possible query strings, return all strings in the set that have s as a prefix.
+    Incomplete
