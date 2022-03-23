@@ -24,3 +24,5 @@ Problem 12: There exists a staircase with N steps, and you can climb up either 1
     Incomplete
 Problem 13: Given an integer k and a string s, find the length of the longest substring that contains at most k distinct characters.
     Incomplete
+Problem 14: The area of a circle is defined as πr^2. Estimate π to 3 decimal places using a Monte Carlo method.
+    Completed 3-23-22
