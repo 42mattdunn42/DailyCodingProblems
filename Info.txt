@@ -28,3 +28,9 @@ Problem 14: The area of a circle is defined as πr^2. Estimate π to 3 decimal p
     Completed 3-23-22
 Problem 15: Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
     Incomplete
+Problem 16: You run an e-commerce website and want to record the last N order ids in a log. Implement a data structure to accomplish this, with the following API: A) record(order_id): adds the order_id to the log B) get_last(i): gets the ith last element from the log. i is guaranteed to be smaller than or equal to N.
+    Incomplete
+Problem 17: Given a string representing the file system in the above format, return the length of the longest absolute path to a file in the abstracted file system. If there is no file in the system, return 0.
+    Incomplete
+Problem 18: Given an array of integers and a number k, where 1 <= k <= length of the array, compute the maximum values of each subarray of length k.
+    Incomplete
