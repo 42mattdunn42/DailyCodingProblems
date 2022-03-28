@@ -34,3 +34,5 @@ Problem 17: Given a string representing the file system in the above format, ret
     Incomplete
 Problem 18: Given an array of integers and a number k, where 1 <= k <= length of the array, compute the maximum values of each subarray of length k.
     Incomplete
+Problem 19: Given an N by K matrix where the nth row and kth column represents the cost to build the nth house with kth color, return the minimum cost which achieves this goal.
+    Incomplete
