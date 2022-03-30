@@ -38,3 +38,5 @@ Problem 19: Given an N by K matrix where the nth row and kth column represents t
     Incomplete
 Problem 20: Given two singly linked lists that intersect at some point, find the intersecting node. The lists are non-cyclical.
     Incomplete
+Problem 21: Given an array of time intervals (start, end) for classroom lectures (possibly overlapping), find the minimum number of rooms required.
+    Incomplete
