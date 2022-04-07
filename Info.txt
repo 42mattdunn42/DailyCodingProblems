@@ -40,3 +40,7 @@ Problem 20: Given two singly linked lists that intersect at some point, find the
     Incomplete
 Problem 21: Given an array of time intervals (start, end) for classroom lectures (possibly overlapping), find the minimum number of rooms required.
     Incomplete
+
+
+Problem 29: Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid.
+    Incomplete
