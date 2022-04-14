@@ -45,3 +45,5 @@ Problem 21: Given an array of time intervals (start, end) for classroom lectures
 Problem 29: Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid.
     Mostly completed 4-7-22, doesn't work for all cases
 
+Problem 33: Compute the running median of a sequence of numbers. That is, given a stream of numbers, print out the median of the list so far on each new element.
+    Completed 4-14-22, altough ineffecient memory and time
